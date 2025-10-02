@@ -12,7 +12,7 @@ Các chức năng:
 - **ESP32 DevKit**.  
 - **LED1**: nối vào GPIO2 (qua điện trở 220Ω).  
 - **LED2**: nối vào GPIO25 (qua điện trở 220Ω).  
-- **Button**: nối vào GPIO26, dùng `INPUT_PULLUP` (một chân nối GND, một chân nối vào GPIO18).  
+- **Button**: nối vào GPIO26, dùng `INPUT_PULLUP` (một chân nối GND, một chân nối vào GPIO26).  
 
 ## 💻 Phần mềm
 - **PlatformIO** (Arduino framework).  
