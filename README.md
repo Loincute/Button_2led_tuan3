@@ -22,6 +22,6 @@ Các chức năng:
 1. Clone project về máy:  
    ```bash
    https://github.com/Loincute/Button_2led_tuan3/edit/master/test/README
-   cd Button_
+   cd Button_2led
 2. Mở bằng VS Code + PlatformIO.
 3. Upload code lên ESP32 và mở Serial Monitor để quan sát log.
